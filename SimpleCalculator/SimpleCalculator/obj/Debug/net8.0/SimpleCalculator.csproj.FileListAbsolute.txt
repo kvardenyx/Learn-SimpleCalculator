@@ -1,0 +1,15 @@
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.exe
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.deps.json
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.runtimeconfig.json
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.dll
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0\SimpleCalculator.pdb
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.AssemblyInfo.cs
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.sourcelink.json
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.dll
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\refint\SimpleCalculator.dll
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.pdb
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\SimpleCalculator.genruntimeconfig.cache
+C:\Person\Projects\Learning\Learn-SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0\ref\SimpleCalculator.dll
